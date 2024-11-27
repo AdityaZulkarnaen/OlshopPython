@@ -1,0 +1,8 @@
+user,password
+adit,123
+kika,123
+yuay.ayu,123456789
+testing,123
+azril,123
+admin,admin
+.,;
